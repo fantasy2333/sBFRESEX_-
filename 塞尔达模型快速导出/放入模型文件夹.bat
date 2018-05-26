@@ -1,0 +1,1 @@
+dir /a-d /b *.sbfres>1.txt
