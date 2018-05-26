@@ -11,4 +11,6 @@ sBFRESEX_快速导出程序
 <br>输入路径示范:G:\\NS_hack\\Switch_ROMS\\saierda\\output\\Model
 <br>不能使用单\必须是\\
 <br>然后等待其完成吧
+
+build by VS2017
 <br><h1>Made by:GM</h1>
