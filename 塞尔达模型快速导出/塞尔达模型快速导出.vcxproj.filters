@@ -21,5 +21,8 @@
     <ClCompile Include="beta_1.0.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="beta_3.0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
